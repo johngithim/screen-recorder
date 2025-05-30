@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://johngithim-s-workspace-jqa66t.eu-central-1.xata.sh/db/jsm_snapcast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
